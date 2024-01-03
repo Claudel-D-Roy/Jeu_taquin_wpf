@@ -1,4 +1,4 @@
-#Jeu de taquin - WPF
+# Jeu de taquin - WPF
 
 Jeu du taquin fait lors de mon parcours scolaire. 
 
