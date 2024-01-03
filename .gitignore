@@ -1,0 +1,13 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/JeuTaquin/bin/Debug/net5.0
+/JeuTaquin/obj
+/JeuTaquinWPF/.vs/JeuTaquinWPF/FileContentIndex
+/JeuTaquinWPF/bin/Debug/net5.0-windows
+/JeuTaquinWPF/obj
+/JeuxLib/bin/Debug/net5.0
+/JeuxLib/obj
+/JeuTaquinWPF/.vs/JeuTaquinWPF/v17
+/.vs/JeuxTaquin
